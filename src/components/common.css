@@ -1,0 +1,16 @@
+button{
+    background-color:black;
+    color: white;
+    height: 40px;
+    width: 90px;
+    margin-left: 20px;
+}
+.output{
+text-align: center;
+position: absolute;
+left: 500px;
+}
+body{
+    background-color:rgb(229,124,149) ;
+    position: relative;
+}
